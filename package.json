@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/grace7937/typescript-blockchain/issues"
   },
-  "homepage": "https://github.com/grace7937/typescript-blockchain#readme"
+  "homepage": "https://github.com/grace7937/typescript-blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
 }
