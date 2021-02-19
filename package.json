@@ -1,0 +1,19 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "description": "making a blockchain with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grace7937/typescript-blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grace7937/typescript-blockchain/issues"
+  },
+  "homepage": "https://github.com/grace7937/typescript-blockchain#readme"
+}
